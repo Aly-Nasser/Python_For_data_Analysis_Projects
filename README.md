@@ -1,1 +1,1 @@
-# SQL_Covid_Project
+# Python_Project
